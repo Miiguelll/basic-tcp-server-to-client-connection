@@ -1,0 +1,10 @@
+C:\Users\scava\source\repos\tcp\tcpPanel\bin\Debug\tcpPanel.exe.config
+C:\Users\scava\source\repos\tcp\tcpPanel\bin\Debug\tcpPanel.exe
+C:\Users\scava\source\repos\tcp\tcpPanel\bin\Debug\tcpPanel.pdb
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.csprojAssemblyReference.cache
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.Panel.resources
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.Properties.Resources.resources
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.csproj.GenerateResource.cache
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.csproj.CoreCompileInputs.cache
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.exe
+C:\Users\scava\source\repos\tcp\tcpPanel\obj\Debug\tcpPanel.pdb

@@ -1,0 +1,7 @@
+C:\Users\scava\source\repos\tcp\tcp\bin\Debug\tcp.exe.config
+C:\Users\scava\source\repos\tcp\tcp\bin\Debug\tcp.exe
+C:\Users\scava\source\repos\tcp\tcp\bin\Debug\tcp.pdb
+C:\Users\scava\source\repos\tcp\tcp\obj\Debug\tcp.csprojAssemblyReference.cache
+C:\Users\scava\source\repos\tcp\tcp\obj\Debug\tcp.csproj.CoreCompileInputs.cache
+C:\Users\scava\source\repos\tcp\tcp\obj\Debug\tcp.exe
+C:\Users\scava\source\repos\tcp\tcp\obj\Debug\tcp.pdb
